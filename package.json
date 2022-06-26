@@ -1,0 +1,22 @@
+{
+  "name": "software-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimRas/software-testing-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimRas/software-testing-jest/issues"
+  },
+  "homepage": "https://github.com/TimRas/software-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
